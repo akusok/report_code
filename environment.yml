@@ -1,0 +1,10 @@
+name: submission-akusok
+dependencies:
+  - python
+  - pip
+  - pandas
+  - basemap
+  - seaborn
+  - jupyter
+  - pip:
+    - zipcodes
